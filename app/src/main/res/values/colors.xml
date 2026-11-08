@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="violet">#4535C9</color>
+    <color name="violet_fonce">#3627A8</color>
+    <color name="violet_clair">#D9D5F5</color>
+    <color name="vert">#1FA855</color>
+    <color name="bleu">#1E88E5</color>
+    <color name="gris">#757575</color>
+    <color name="gris_fond">#F2F2F7</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="noir">#212121</color>
+</resources>

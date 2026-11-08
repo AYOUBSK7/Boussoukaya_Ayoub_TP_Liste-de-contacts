@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Contacts V2</string>
+    <string name="titre_liste">Mes contacts</string>
+    <string name="titre_detail">Détail du contact</string>
+
+    <!-- Ligne de la liste : "Nom Prénom" -->
+    <string name="nom_complet">%1$s %2$s</string>
+    <string name="desc_photo">Photo du contact</string>
+
+    <!-- Écran de détail -->
+    <string name="label_nom">Nom</string>
+    <string name="label_prenom">Prénom</string>
+    <string name="label_telephone">Téléphone</string>
+    <string name="label_email">E-mail</string>
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">Envoyer un e-mail</string>
+    <string name="btn_galerie">Choisir une photo</string>
+    <string name="btn_camera">Prendre une photo</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_annuler">Annuler</string>
+
+    <!-- Messages -->
+    <string name="msg_champ_obligatoire">Champ obligatoire</string>
+    <string name="msg_email_invalide">Adresse e-mail invalide</string>
+    <string name="msg_aucune_application">Aucune application compatible</string>
+    <string name="msg_photo_annulee">Aucune photo sélectionnée</string>
+    <string name="msg_photo_erreur">Impossible de charger la photo</string>
+    <string name="msg_camera_refusee">Permission caméra refusée</string>
+    <string name="msg_camera_indisponible">Aucune caméra disponible</string>
+    <string name="msg_contact_modifie">Contact modifié : %1$s</string>
+</resources>

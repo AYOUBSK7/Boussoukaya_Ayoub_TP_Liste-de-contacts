@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Écran principal : la liste des contacts -->
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lvContacts"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gris_fond"
+    android:clipToPadding="false"
+    android:divider="@android:color/transparent"
+    android:dividerHeight="8dp"
+    android:padding="12dp" />

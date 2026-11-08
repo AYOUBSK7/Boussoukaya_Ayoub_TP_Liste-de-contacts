@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ContactsV2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorPrimaryDark">@color/violet_fonce</item>
+        <item name="colorAccent">@color/violet</item>
+    </style>
+</resources>
